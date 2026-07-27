@@ -179,4 +179,4 @@ Revision:
 * modular desktop utility
 * lifecycle management
 * configuration architecture
-* Windows deployment
+* Windows deployment 
